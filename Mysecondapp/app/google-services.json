@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640923370346",
+    "project_id": "project-detect",
+    "storage_bucket": "project-detect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640923370346:android:b65f264fc1f0a133b95b13",
+        "android_client_info": {
+          "package_name": "com.google.firebase.mlkit.codelab.objectdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640923370346-f1prak7piu1stkb5diuc41bt1kpov1m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILgyb7YxWGfZy-zGAcIA-wmfe_tYYlEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640923370346-f1prak7piu1stkb5diuc41bt1kpov1m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
